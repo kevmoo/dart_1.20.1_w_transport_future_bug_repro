@@ -1,0 +1,9 @@
+name: dart_1201_w_transport_future_bug_repro
+version: 0.0.0
+
+dependencies:
+  w_transport: ^3.0.0
+#    path: ../w_transport
+
+dev_dependencies:
+  test: any
